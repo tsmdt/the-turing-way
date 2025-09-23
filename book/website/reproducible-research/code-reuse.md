@@ -13,7 +13,7 @@ However, when we talk about code reuse this can take many forms: we may want to 
 Freire and Chirigati {cite:ps}`Freire2018Reproducibility` provide a framework of different levels of reproducibility, depending on what can be modified. 
 They define the following levels of reproducibility: repeatable, re-runnable, portable, extendable and modifiable.
 
-We can map the definitions of reproducibly on the Freire framework as follows:
+We can map the definitions of reproducibility on the Freire framework as follows:
 
 | Freire framework | Definitions of reproducibly |
 |------------------|---|
